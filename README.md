@@ -16,3 +16,5 @@ First ever OTP Bot maker for beginners. Make your own OTP source in python or no
 6. Go to your telegram bot chat and type '/start'
 
 7. For question contact me on telegram.
+
+/generate 1d/1w/1m - To generate licenses.
