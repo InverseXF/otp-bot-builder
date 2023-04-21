@@ -1,4 +1,4 @@
-First ever OTP Bot maker for beginners. Make your own OTP source in python or nodejs with any features you like!
+📞First ever OTP Bot maker for beginners. Make your own OTP source in python or nodejs with any features you like!
 
 # RAR PASSWORD: KE47vM9U7V3ahgI
 
